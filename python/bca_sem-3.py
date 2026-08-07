@@ -5,12 +5,12 @@ else:
     
 
 # github copilot even and odd statement
-
+'''
 if n % 2 == 0:
     print(f"{n} is even")
 else:
     print(f"{n} is odd")
-
+'''
 
 #know i have to check if the number is prime or not
 def is_prime(n):
