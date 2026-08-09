@@ -9,6 +9,8 @@ written using a docstring
 """
 
 
-print ("hello ")
+print ("hello  comments in python")
+
+# git hub progress of the code is done and uploaded to the git hub repository
 
 
