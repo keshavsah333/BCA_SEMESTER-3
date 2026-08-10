@@ -84,3 +84,4 @@ else:
 
 print("First letter of each word capitalized =", sentence.capitalize())
 print("Title case =", sentence.title())
+
