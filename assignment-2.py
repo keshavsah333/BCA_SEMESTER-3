@@ -56,7 +56,7 @@ match day:
         print("Sunday")
     case _:
         print("Invalid input")    
-'''
+
 #Q5. Perform operations on a string
 text = input("Enter a string: ")
 
@@ -66,3 +66,21 @@ print("Lowercase =", text.lower())
 print("First character =", text[0])
 print("Last character =", text[-1])
 print("Without whitespaces =", text.replace(" ", ""))
+'''
+
+#Q6. Perform operations on a sentence
+sentence = input("Enter a sentence: ")
+
+print("Number of words =", len(sentence.split()))
+
+print("Reversed sentence =", sentence[::-1])
+
+word = input("Enter a word to search: ")
+
+if word in sentence:
+    print("Word exists in the sentence.")
+else:
+    print("Word does not exist in the sentence.")
+
+print("First letter of each word capitalized =", sentence.capitalize())
+print("Title case =", sentence.title())
