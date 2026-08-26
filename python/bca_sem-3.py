@@ -197,3 +197,13 @@ int(n**0.5) + 1):
                         int(n**0.5) + 1):
                                 if n % i == 0:
                                     return Fals
+                                
+                                
+                                
+                                
+                                
+                                
+if 2%2==0:
+    print("The number is even.")
+else:
+    print("the number is odd.")
