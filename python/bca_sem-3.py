@@ -221,3 +221,6 @@ else:
     
 if 2%4==0:
     print("The number is even.")
+
+    if 2 % 4 == 0:
+        print("The number is even.")
