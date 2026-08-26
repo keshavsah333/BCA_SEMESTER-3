@@ -216,4 +216,8 @@ else:
     
     else:
     print("the number is odd.")
+
     
+    
+if 2%4==0:
+    print("The number is even.")
