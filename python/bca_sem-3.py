@@ -224,3 +224,12 @@ if 2%4==0:
 
     if 2 % 4 == 0:
         print("The number is even.")
+
+        if 2 % 2 == 0:
+            print("The number is even.")
+    else:
+        print("the number is odd.")
+
+        else:
+        print("the number is odd.")
+
