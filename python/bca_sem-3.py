@@ -241,3 +241,11 @@ else:
     else:
     print("the number is odd.")
 
+    if 2 % 2 == 0:
+        print("The number is even.")
+else:
+print("the number is odd.")
+
+else:
+print("t
+
