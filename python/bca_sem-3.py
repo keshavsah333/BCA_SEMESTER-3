@@ -247,5 +247,12 @@ else:
 print("the number is odd.")
 
 else:
+
+f 2 % 2 == 0:
+
+
+
+
+
 print("t
 
