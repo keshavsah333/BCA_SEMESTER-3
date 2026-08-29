@@ -213,8 +213,11 @@ else:
         print("The number is even.")
 else:
     print("the number is odd.")
-    
-    else:
+
+else:
+print("the number is odd.")
+
+else:
     print("the number is odd.")
 
     
