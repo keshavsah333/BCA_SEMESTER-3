@@ -208,7 +208,7 @@ if 2%2==0:
 else:
     print("the number is odd.")    else:
     print("the number is odd.")
-    else:
+    else: 2%2==0:
     print("the number is odd.")
 
     
