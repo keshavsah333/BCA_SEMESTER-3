@@ -246,7 +246,9 @@ else:
 else:
 print("the number is odd.")
 
-else:
+else:    else:
+    print("the number is odd.")
+
 
 f 2 % 2 == 0:
 f 2 % 2 == 0:
