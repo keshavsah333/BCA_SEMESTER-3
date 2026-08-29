@@ -254,5 +254,8 @@ f 2 % 2 == 0:
 else:
 print("the number is odd.")
 
+else:
+print("the number is odd.")
+
 print("t
 
