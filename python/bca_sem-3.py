@@ -296,3 +296,11 @@ else:
 
 else:
 print("the number is odd.")
+
+
+else:
+    print("the number is odd.")
+
+else:
+print("the number is odd.")
+
