@@ -268,3 +268,10 @@ print("the number is odd.")
 
 print("t
 
+
+else:
+    print("the number is odd.")
+
+else:
+print("the number is odd.")
+
