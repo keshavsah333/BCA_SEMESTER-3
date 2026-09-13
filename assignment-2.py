@@ -86,3 +86,6 @@ print("First letter of each word capitalized =", sentence.capitalize())
 print("Title case =", sentence.title())
 print("Title case =", sentence.title())
 
+
+print("Title case =", sentence.title())
+
