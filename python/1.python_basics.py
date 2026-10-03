@@ -1,2 +1,6 @@
-import numpy as np 
-import matplotlib.pyplot as plt
+if marks >= 40:
+    print("Pass")
+else:
+    print("Fail")
+    
+
