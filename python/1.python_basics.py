@@ -128,3 +128,13 @@ else :
     else :
         print ("fail")
         
+        
+        
+  
+elif marks >= 60 :
+    print ("B+")
+    
+else :
+    print ("fail")
+    
+    
